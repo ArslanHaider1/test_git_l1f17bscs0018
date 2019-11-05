@@ -1,4 +1,4 @@
-"Name: "Arslan Haider" 
+Name: Arslan Haider 
 Email: harsalan697@gmail.com
 Faculty of Information Technology
 UCP
